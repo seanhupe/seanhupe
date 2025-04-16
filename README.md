@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working / learning Python, Playwright, Selenium, SQL ...
+🔭 I’m currently working / learning Python, Playwright, MCP, CI/CD, RAG-LLM...
 ###
 <!--
 **seanhupe/seanhupe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
